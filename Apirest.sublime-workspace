@@ -1,0 +1,524 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"use",
+				"$user〔variable〕"
+			],
+			[
+				"reque",
+				"request〔function〕"
+			],
+			[
+				"st",
+				"store"
+			],
+			[
+				"token",
+				"tokensCan〔function〕"
+			],
+			[
+				"wi",
+				"withErrors〔function〕"
+			],
+			[
+				"err",
+				"$errors〔variable〕"
+			],
+			[
+				"req",
+				"$request〔variable〕"
+			],
+			[
+				"transforme",
+				"$transformedErrors〔variable〕"
+			],
+			[
+				"str_rep",
+				"str_replace〔function〕"
+			],
+			[
+				"transformed",
+				"$transformedField〔variable〕"
+			],
+			[
+				"trans",
+				"$transformedErrors〔variable〕"
+			],
+			[
+				"fi",
+				"$field〔variable〕"
+			],
+			[
+				"tras",
+				"$transformer〔variable〕"
+			],
+			[
+				"tra",
+				"$transformedInput〔variable〕"
+			],
+			[
+				"in",
+				"$input〔variable〕"
+			],
+			[
+				"que",
+				"$queryParams〔variable〕"
+			],
+			[
+				"pe",
+				"$perPage〔variable〕"
+			],
+			[
+				"pagi",
+				"$paginated〔variable〕"
+			],
+			[
+				"pag",
+				"$paginated〔variable〕"
+			],
+			[
+				"resu",
+				"$results〔variable〕"
+			],
+			[
+				"pa",
+				"$page〔variable〕"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wh",
+				"where〔function〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"ind",
+				"$index〔variable〕"
+			],
+			[
+				"s",
+				"successResponse〔function〕"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"us",
+				"$user〔variable〕"
+			],
+			[
+				"con",
+				"config〔function〕"
+			],
+			[
+				"hea",
+				"$header〔variable〕"
+			],
+			[
+				"sho",
+				"showMessage〔function〕"
+			],
+			[
+				"sub",
+				"subject〔function〕"
+			],
+			[
+				"sh",
+				"showOne〔function〕"
+			],
+			[
+				"quan",
+				"quantity"
+			],
+			[
+				"qua",
+				"quantity"
+			],
+			[
+				"product",
+				"$product〔variable〕"
+			],
+			[
+				"syn",
+				"syncWithoutDetaching〔function〕"
+			],
+			[
+				"produ",
+				"$product〔variable〕"
+			],
+			[
+				"transac",
+				"$transaction〔variable〕"
+			],
+			[
+				"is",
+				"isClean〔function〕"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"o",
+				"only〔function〕"
+			],
+			[
+				"cate",
+				"$category〔variable〕"
+			],
+			[
+				"sta",
+				"static〔keyword〕"
+			],
+			[
+				"exce",
+				"$exception〔variable〕"
+			],
+			[
+				"erro",
+				"errorResponse"
+			],
+			[
+				"exec",
+				"$exception〔variable〕"
+			],
+			[
+				"co",
+				"$collection〔variable〕"
+			],
+			[
+				"va",
+				"$valor〔variable〕"
+			],
+			[
+				"strto",
+				"strtolower〔function〕"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/oduber/proyectos/APIRestful",
+		"/home/oduber/proyectos/APIRestful/app",
+		"/home/oduber/proyectos/APIRestful/app/Exceptions",
+		"/home/oduber/proyectos/APIRestful/config",
+		"/home/oduber/proyectos/APIRestful/routes"
+	],
+	"file_history":
+	[
+		"/home/oduber/proyectos/APIRestful/routes/api.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/User/UserController.php",
+		"/home/oduber/proyectos/APIRestful/app/Exceptions/Handler.php",
+		"/home/oduber/proyectos/APIRestful/vendor/asm89/stack-cors/src/CorsService.php",
+		"/home/oduber/proyectos/APIRestful/app/Providers/AuthServiceProvider.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Kernel.php",
+		"/home/oduber/proyectos/APIRestful/vendor/fruitcake/laravel-cors/src/HandleCors.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Buyer/BuyerController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Category/CategoryBuyerController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Transaction/TransactionController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Buyer/BuyerSellerController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Category/CategoryController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Category/CategorySellerController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Category/CategoryTransactionController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Product/ProductBuyerController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Product/ProductTransactionController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Seller/SellerBuyerController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Seller/SellerController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/ApiController.php",
+		"/home/oduber/proyectos/APIRestful/app/Policies/TransactionPolicy.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Product/ProductCategoryController.php",
+		"/home/oduber/proyectos/APIRestful/app/Traits/AdminActions.php",
+		"/home/oduber/proyectos/APIRestful/app/Policies/BuyerPolicy.php",
+		"/home/oduber/proyectos/APIRestful/app/Policies/SellerPolicy.php",
+		"/home/oduber/proyectos/APIRestful/app/Policies/ProductPolicy.php",
+		"/home/oduber/proyectos/APIRestful/app/Policies/UserPolicy.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Transaction/TransactionSellerController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Seller/SellerProductController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Seller/SellerCategoryController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Seller/SellerTransactionController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Buyer/BuyerCategoryController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Buyer/BuyerProductController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Buyer/BuyerTransactionController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Product/ProductBuyerTransactionController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Transaction/TransactionCategoryController.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/passport/src/Passport.php",
+		"/home/oduber/proyectos/APIRestful/routes/web.php",
+		"/home/oduber/proyectos/APIRestful/resources/js/app.js",
+		"/home/oduber/proyectos/APIRestful/resources/views/layouts/app.blade.php",
+		"/home/oduber/proyectos/APIRestful/resources/views/home/personal-authorized-clients.blade.php",
+		"/home/oduber/proyectos/APIRestful/resources/views/home/personal-clients.blade.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/HomeController.php",
+		"/home/oduber/proyectos/APIRestful/resources/views/home/personal-tokens.blade.php",
+		"/home/oduber/proyectos/APIRestful/app/Providers/RouteServiceProvider.php",
+		"/home/oduber/proyectos/APIRestful/app/Transformers/UserTransformer.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Category/CategoryProductController.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Controllers/Product/ProductController.php",
+		"/home/oduber/proyectos/APIRestful/config/auth.php",
+		"/home/oduber/proyectos/APIRestful/app/User.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/passport/src/HasApiTokens.php",
+		"/home/oduber/proyectos/APIRestful/config/app.php",
+		"/home/oduber/proyectos/APIRestful/resources/views/auth/login.blade.php",
+		"/home/oduber/proyectos/APIRestful/resources/views/welcome.blade.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/ui/src/AuthRouteMethods.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php",
+		"/home/oduber/proyectos/APIRestful/vendor/composer/autoload_classmap.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Middleware/TransFormInput.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Broadcasting/BroadcastManager.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/home/oduber/proyectos/APIRestful/app/Transformers/BuyerTransformer.php",
+		"/home/oduber/proyectos/APIRestful/app/Transformers/CategoryTransformer.php",
+		"/home/oduber/proyectos/APIRestful/app/Transformers/ProductTransformer.php",
+		"/home/oduber/proyectos/APIRestful/app/Transformers/TransactionTransformer.php",
+		"/home/oduber/proyectos/APIRestful/app/Transformers/SellerTransformer.php",
+		"/home/oduber/proyectos/APIRestful/app/Traits/ApiResponser.php",
+		"/home/oduber/proyectos/APIRestful/app/Seller.php",
+		"/home/oduber/proyectos/APIRestful/app/Product.php",
+		"/home/oduber/proyectos/APIRestful/app/Category.php",
+		"/home/oduber/proyectos/APIRestful/app/Buyer.php",
+		"/home/oduber/proyectos/APIRestful/app/Transaction.php",
+		"/home/oduber/proyectos/APIRestful/app/Http/Middleware/SignatureMiddleware.php",
+		"/home/oduber/proyectos/APIRestful/app/Mail/UserMailChanged.php",
+		"/home/oduber/proyectos/APIRestful/.env",
+		"/home/oduber/proyectos/APIRestful/app/Mail/UserCreated.php",
+		"/home/oduber/proyectos/APIRestful/storage/logs/laravel.log",
+		"/home/oduber/proyectos/APIRestful/resources/views/emails/confirm.blade.php",
+		"/home/oduber/proyectos/APIRestful/resources/views/emails/welcome.blade.php",
+		"/home/oduber/proyectos/APIRestful/app/Providers/AppServiceProvider.php",
+		"/home/oduber/proyectos/APIRestful/database/seeds/DatabaseSeeder.php",
+		"/home/oduber/proyectos/APIRestful/config/mail.php",
+		"/home/oduber/proyectos/APIRestful/config/services.php",
+		"/home/oduber/proyectos/APIRestful/.env.example",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php",
+		"/home/oduber/proyectos/APIRestful/vendor/phpunit/phpunit/src/Util/Filesystem.php",
+		"/home/oduber/proyectos/APIRestful/config/filesystems.php",
+		"/home/oduber/proyectos/APIRestful/public/img/.gitignore",
+		"/home/oduber/proyectos/APIRestful/vendor/symfony/http-kernel/Exception/HttpException.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Validation/Factory.php",
+		"/home/oduber/proyectos/APIRestful/vendor/symfony/http-foundation/Request.php",
+		"/home/oduber/proyectos/APIRestful/app/Scopes/BuyerScope.php",
+		"/home/oduber/proyectos/APIRestful/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/oduber/proyectos/APIRestful/database/migrations/2019_08_19_000000_create_failed_jobs_table.php",
+		"/home/oduber/proyectos/APIRestful/database/migrations/2020_05_27_144510_category_product_table.php",
+		"/home/oduber/proyectos/APIRestful/database/migrations/2020_05_26_223348_create_categories_table.php",
+		"/home/oduber/proyectos/APIRestful/database/migrations/2020_05_26_223253_create_transactions_table.php",
+		"/home/oduber/proyectos/APIRestful/database/migrations/2020_05_26_223202_create_products_table.php",
+		"/home/oduber/proyectos/APIRestful/app/Scopes/SellerScope.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Scope.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/home/oduber/proyectos/APIRestful/vendor/symfony/http-kernel/Exception/HttpExceptionInterface.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Validation/ValidationException.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/home/oduber/proyectos/APIRestful/vendor/filp/whoops/src/Whoops/Handler/Handler.php",
+		"/home/oduber/proyectos/APIRestful/vendor/facade/ignition/src/ErrorPage/Renderer.php",
+		"/home/oduber/proyectos/APIRestful/vendor/facade/ignition/resources/compiled/ignition.js",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/AuthorizesRequests.php",
+		"/home/oduber/proyectos/APIRestful/vendor/guzzlehttp/promises/src/functions.php",
+		"/home/oduber/proyectos/APIRestful/vendor/guzzlehttp/promises/Makefile",
+		"/home/oduber/proyectos/APIRestful/vendor/guzzlehttp/psr7/src/Request.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Support/Str.php",
+		"/home/oduber/proyectos/APIRestful/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php",
+		"/home/oduber/.config/sublime-text-3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/home/oduber/.config/sublime-text-3/Packages/User/PHP Companion.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"LoginController@login",
+			"register",
+			"RouteRegistrar",
+			"route",
+			"Route",
+			"route"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "Apirest.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
